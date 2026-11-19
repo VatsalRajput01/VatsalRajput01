@@ -26,4 +26,4 @@ Full-stack web developer focused on building fast, resource-optimized web applic
 
 #### Contact
 
-For project discussions or collaborations, reach out via [Email](mailto:darbarvatsal16@gmail.com).
+For project discussions or collaborations, reach out via [Email](mailto:darbarvatsal16@gmail.com) .
