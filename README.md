@@ -8,7 +8,7 @@ Full-stack web developer focused on building fast, resource-optimized web applic
 
 | Project | Description | Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **Pulse** | Minimalist web workspace built for distraction-free workflows with client-side JSON data import and export. | React, Web Storage | [Repo](https://github.com/VatsalRajput01/Pulse) · [Live](https://mypulse.pages.dev/) |
+| **Pulse** | Minimalist web workspace built for distraction-free workflows with client-side JSON data import and export. | HTML5, Web Storage | [Repo](https://github.com/VatsalRajput01/Pulse) · [Live](https://mypulse.pages.dev/) |
 | **ArenaX** | Real-time multiplayer mini-game web platform featuring low-latency room sync and local Pass & Play modes. | React, Vite, Node.js, Express, Socket.IO | [Repo](https://github.com/VatsalRajput01/ArenaX) · [Live](https://arenax-game.netlify.app/) |
 | **SwiftShare** | Lightweight file-sharing web application engineered for quick uploads and cloud object storage delivery. | Node.js, Express, Multer, Cloudflare R2 | [Repo](https://github.com/VatsalRajput01/SwiftShare) · [Live](https://swift-share.netlify.app/) |
 | **Hanoi** | Interactive Tower of Hanoi implementation focused on smooth state handling and clean visual logic. | JavaScript / React *(update stack)* | [Repo](https://github.com/VatsalRajput01/Hanoi) · [Live](https://game-hanoi.netlify.app/) |
